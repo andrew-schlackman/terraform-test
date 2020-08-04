@@ -1,2 +1,1 @@
-resource "vsphere_virtual_machine" "test" {
-}
+resource "vsphere_virtual_machine" "my_machine" {}
